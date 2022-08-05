@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahpeyker
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding , reading book, doing various sports and playing the violin
 - 🌱 I’m currently learning html css and javascript
 
 <!---
